@@ -46,6 +46,6 @@ I would like to improve my methodology for naming classes in CSS. Additionally, 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/INSolisLoyo)
-- LinkedIn - [@yourusername](https://www.linkedin.com/in/irma-nohemi-solis-loyo/)
+- Frontend Mentor - [@INSolisLoyo](https://www.frontendmentor.io/profile/INSolisLoyo)
+- LinkedIn - [@irma-nohemi-solis-loyo](https://www.linkedin.com/in/irma-nohemi-solis-loyo/)
 
